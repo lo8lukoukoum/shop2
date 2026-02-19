@@ -1,0 +1,5 @@
+{
+  "name": "扫码结账助手",
+  "description": "一款支持条形码扫描、库存管理及数据导入导出的移动端结账统计工具。",
+  "requestFramePermissions": ["camera"]
+}
